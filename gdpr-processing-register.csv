@@ -1,0 +1,4 @@
+Processing,Purpose,Legal basis,Data categories,Data subjects,Recipients,Retention period,Transfers outside EU,Security measures
+Newsletter,Marketing communication,Consent,"Name, email",Subscribers,Email provider,Until unsubscribe,No,"Access control, encrypted transit"
+Customer orders,Contract performance,Contract,"Name, address, order history",Customers,"Logistics, payment provider",5 years after last purchase,No,"Role-based access, backups"
+Recruitment,Candidate selection,Legitimate interest,"CV, contact details",Applicants,HR,2 years max,No,"Restricted access, deletion process"

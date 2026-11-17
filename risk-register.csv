@@ -1,0 +1,7 @@
+ID,Asset,Threat,Vulnerability,Likelihood (1-4),Impact (1-4),Score,Level,Treatment,Owner,Status
+R01,Employee laptops,Theft or loss,No disk encryption,3,3,9,High,Enable full-disk encryption,IT,Open
+R02,Customer database,Unauthorised access,Shared admin account,2,4,8,Medium,Individual accounts + MFA,IT,Open
+R03,Email,Phishing,No awareness training,4,3,12,High,Awareness sessions + simulation,Security,Open
+R04,Backups,Data loss,Backups never restored in tests,2,4,8,Medium,Quarterly restore test,IT,Planned
+R05,Website,SQL injection,Unvalidated inputs,2,4,8,Medium,Input validation + code review,Dev,Open
+R06,Suppliers,Data leak at provider,No security clause in contract,2,3,6,Medium,Add security and GDPR clauses,Legal,Open
